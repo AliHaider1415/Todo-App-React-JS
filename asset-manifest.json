@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7BTodo-App-React-JS%7D/static/css/main.5b9281f3.css",
-    "main.js": "/%7BTodo-App-React-JS%7D/static/js/main.afca00f0.js",
-    "static/js/787.a5cad257.chunk.js": "/%7BTodo-App-React-JS%7D/static/js/787.a5cad257.chunk.js",
-    "index.html": "/%7BTodo-App-React-JS%7D/index.html",
-    "main.5b9281f3.css.map": "/%7BTodo-App-React-JS%7D/static/css/main.5b9281f3.css.map",
-    "main.afca00f0.js.map": "/%7BTodo-App-React-JS%7D/static/js/main.afca00f0.js.map",
-    "787.a5cad257.chunk.js.map": "/%7BTodo-App-React-JS%7D/static/js/787.a5cad257.chunk.js.map"
+    "main.css": "/Todo-App-React-JS/static/css/main.5b9281f3.css",
+    "main.js": "/Todo-App-React-JS/static/js/main.5d2c0c12.js",
+    "static/js/787.a5cad257.chunk.js": "/Todo-App-React-JS/static/js/787.a5cad257.chunk.js",
+    "index.html": "/Todo-App-React-JS/index.html",
+    "main.5b9281f3.css.map": "/Todo-App-React-JS/static/css/main.5b9281f3.css.map",
+    "main.5d2c0c12.js.map": "/Todo-App-React-JS/static/js/main.5d2c0c12.js.map",
+    "787.a5cad257.chunk.js.map": "/Todo-App-React-JS/static/js/787.a5cad257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b9281f3.css",
-    "static/js/main.afca00f0.js"
+    "static/js/main.5d2c0c12.js"
   ]
 }
