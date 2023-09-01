@@ -1,0 +1,25 @@
+.task_container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(144, 42, 175);
+    width: 85%;
+    margin-left: 5.5%;
+    font-size: 0.9vw;
+    color: white;
+    padding: 2% 2% 2% 2%;
+    margin-bottom: 4%;
+    border-radius: 8px;
+}
+.btn_container{
+    min-height: 100%;
+    height: auto;
+    width: 25%;
+    display: flex;
+    justify-content: flex-end;
+}
+.btn_container button{
+    margin-left: 10%;
+}
+.btn_container img{
+    width: 100%;
+}
